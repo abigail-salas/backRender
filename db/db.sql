@@ -29,4 +29,3 @@ INSERT INTO viajes (destino, presupuesto) VALUES
 ('Seúl', 140000),
 ('Singapur', 210000),
 ('Estambul', 95000);
-
